@@ -2,7 +2,9 @@
 
 **`Desenvolvedor Junior | Analista de segurança`**
 
-Me chamo Enzo, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio no E.E Brasílio Machado. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Impacta. Sou apaixonado por tecnologia e compartilho meu conhecimento e projetos pessoais aqui no Github.
+Me chamo Enzo, tenho 21 anos formado em Análise e Desenvolvimento de Sistemas na Impacta. 
+Cursando atualmente Redes de computadores pela faculdade impacta.
+Sou apaixonado por tecnologia e compartilho meu conhecimento e projetos pessoais aqui no Github.
 
 <p align="left">
     <a href="https://github.com/enzoocosta?tab=repositories&sort=stargazers">
