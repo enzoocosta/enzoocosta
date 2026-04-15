@@ -60,11 +60,8 @@ Tenho grande interesse em **infraestrutura**, **redes** e **cibersegurança**, e
 
 ## 💡 Áreas de interesse
 
-- Desenvolvimento Web
 - Segurança da Informação
 - Redes de Computadores
-- Python
-- Front-end
 - Infraestrutura
 
 ---
