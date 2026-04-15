@@ -27,10 +27,6 @@ Tenho grande interesse em **infraestrutura**, **redes** e **cibersegurança**, e
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=enzoocosta&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoocosta&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
-</p>
 
 <p align="center">
   <img height="160em" src="https://streak-stats.demolab.com?user=enzoocosta&theme=tokyonight&hide_border=true&locale=pt_BR" />
