@@ -32,6 +32,10 @@ Tenho grande interesse em **infraestrutura**, **redes** e **cibersegurança**, e
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoocosta&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
 </p>
 
+<p align="center">
+  <img height="160em" src="https://streak-stats.demolab.com?user=enzoocosta&theme=tokyonight&hide_border=true&locale=pt_BR" />
+</p>
+
 ---
 
 ## 🌐 Entre em contato
@@ -53,8 +57,8 @@ Tenho grande interesse em **infraestrutura**, **redes** e **cibersegurança**, e
 ## 🔥 Últimos Repositórios
 
 - [anne-imoveis](https://github.com/enzoocosta/anne-imoveis)
-- [Seu próximo projeto aqui](https://github.com/enzoocosta)
-- [Mais projetos no meu perfil](https://github.com/enzoocosta?tab=repositories)
+- [Em breve](https://github.com/enzoocosta)
+- [Em breve](https://github.com/enzoocosta?tab=repositories)
 
 ---
 
