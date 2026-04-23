@@ -20,7 +20,7 @@ Tenho grande interesse em **infraestrutura**, **redes** e **cibersegurança**, e
 ## 🛠️ Linguagens e Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,linux,bootstrap,mysql,figma,postgres,ps,git,bash" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,claude,linux,codex,mysql,chatgpt,postgres,ps,git,bash" />
 </p>
 
 ---
